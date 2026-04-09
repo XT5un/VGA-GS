@@ -1,0 +1,10 @@
+[submodule "submodules/gim"]
+	path = submodules/gim
+	url = https://github.com/xuelunshen/gim.git
+[submodule "submodules/Depth_Anything_V2"]
+	path = submodules/Depth_Anything_V2
+	url = https://github.com/DepthAnything/Depth-Anything-V2.git
+	ignore = all
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
