@@ -44,7 +44,8 @@ Download image matcher and depth estimator weights to `~/.cache/torch/hub/checkp
 
 ## Dataset
 
-You can download our processed data here.
+The processed scannet and replica datasets are available [Google Drive](https://drive.google.com/file/d/1GzWVmp1PLUL4XCqKCFB0-WjUqzoV1xyp/view?usp=drive_link).
+The NRGBD dataset can be downloaded from [official website](https://github.com/dazinovic/neural-rgbd-surface-reconstruction?tab=readme-ov-file#dataset).
 
 ## Run
 
