@@ -1,0 +1,20 @@
+pypose
+torchmetrics
+scikit-image
+einops==0.8.0
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
+plyfile
+matplotlib
+rich
+kornia
+xformers==0.0.21
+timm
+mmcv
+roma
+trimesh
+open3d==0.18.0
+gin-config
+absl-py==0.15.0
+pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git
+depth_pro @ git+https://github.com/apple/ml-depth-pro.git

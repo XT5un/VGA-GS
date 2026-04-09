@@ -1,0 +1,17 @@
+# dataset
+VGAGSConfigs.dataset_name = "ScanNet"
+VGAGSConfigs.data_root_dir = "./data/ScanNet"
+VGAGSConfigs.scene_name = "scene0710_00"
+VGAGSConfigs.init_points_file = "fused.ply"
+
+# exp
+VGAGSConfigs.output_root_dir = "outs"
+VGAGSConfigs.print_interval = 100
+VGAGSConfigs.depth_estimation_method = "DepthPro"
+VGAGSConfigs.rasterizer_backend = "RaDe"
+VGAGSConfigs.splatter_type = "ray"
+VGAGSConfigs.max_steps = 15000
+
+# params
+VGAGSConfigs.loss_group_depth_rank_level = 128
+VGAGSConfigs.loss_group_depth_rank_lambda = 1.0

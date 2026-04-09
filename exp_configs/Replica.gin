@@ -1,0 +1,18 @@
+# dataset
+VGAGSConfigs.dataset_name = "Replica"
+VGAGSConfigs.data_root_dir = "/hdd24T/sunxt/dataset/Replica"
+VGAGSConfigs.scene_name = "room0"
+VGAGSConfigs.init_points_file = "fused.ply"
+VGAGSConfigs.resize_factor = 2
+
+# exp
+VGAGSConfigs.output_root_dir = "outs"
+VGAGSConfigs.print_interval = 100
+VGAGSConfigs.depth_estimation_method = "DepthPro"
+VGAGSConfigs.rasterizer_backend = "RaDe"
+VGAGSConfigs.splatter_type = "ray"
+VGAGSConfigs.max_steps = 15000
+
+# params
+VGAGSConfigs.loss_group_depth_rank_level = 128
+VGAGSConfigs.loss_group_depth_rank_lambda = 1.0
