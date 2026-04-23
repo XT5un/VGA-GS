@@ -6,7 +6,7 @@
 backup/
 
 # IDE settings
-.vscode/launch.json
+.vscode/
 
 # submodule
 submodules/*/**/__pycache__/
@@ -14,5 +14,4 @@ submodules/*/**/__pycache__/
 # experiment results
 debug/
 outs/
-data/
 data_release/
